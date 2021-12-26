@@ -1,0 +1,14 @@
+com/mapais/ReactNativeFlipper.java
+ com.mapais.ReactNativeFlipper
+ com.mapais.ReactNativeFlipper$1
+ com.mapais.ReactNativeFlipper$2
+ com.mapais.ReactNativeFlipper$2$1
+com/mapais/BuildConfig.java
+ com.mapais.BuildConfig
+com/mapais/MainActivity.java
+ com.mapais.MainActivity
+com/mapais/MainApplication.java
+ com.mapais.MainApplication
+ com.mapais.MainApplication$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
