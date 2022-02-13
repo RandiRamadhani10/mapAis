@@ -1,2 +1,2 @@
 # mapAis
- Ais lapan
+ google maps api for AIS - react native.
